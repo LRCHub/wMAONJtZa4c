@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Fuzzy",
+  "base_artist": "SCANDAL",
+  "createdAt": "2026-03-06T08:08:46.980499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fuzzy",
+      "artist": "Poppy",
+      "has_synced": true,
+      "path": "select/01_Fuzzy_Poppy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fuzzy Dream",
+      "artist": "Black Devil Disco Club feat. Jon Spencer",
+      "has_synced": false,
+      "path": "select/02_Fuzzy_Dream_Black_Devil_Disco_Club_feat._Jon_Spencer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fuzzy Dream",
+      "artist": "Black Devil Disco Club",
+      "has_synced": false,
+      "path": "select/03_Fuzzy_Dream_Black_Devil_Disco_Club.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fuzzy Peach",
+      "artist": "Brillz feat. Minxx",
+      "has_synced": false,
+      "path": "select/04_Fuzzy_Peach_Brillz_feat._Minxx.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fuzzy Peach",
+      "artist": "Brillz & Minxx",
+      "has_synced": false,
+      "path": "select/05_Fuzzy_Peach_Brillz_&_Minxx.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fuzzy Blue Lights",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/06_Fuzzy_Blue_Lights_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Gone Fuzzy",
+      "artist": "Fastball",
+      "has_synced": false,
+      "path": "select/07_All_Gone_Fuzzy_Fastball.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Warm Fuzzy Feeling",
+      "artist": "Fastball",
+      "has_synced": true,
+      "path": "select/08_Warm_Fuzzy_Feeling_Fastball.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fuzzy Freaky",
+      "artist": "David Byrne",
+      "has_synced": true,
+      "path": "select/09_Fuzzy_Freaky_David_Byrne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fuzzy Birds",
+      "artist": "Super Furry Animals",
+      "has_synced": false,
+      "path": "select/10_Fuzzy_Birds_Super_Furry_Animals.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Intergalactic (Fuzzy Logic Remix)",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/11_Intergalactic_(Fuzzy_Logic_Remix)_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Intergalactic (Fuzzy Logic re-mix)",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/12_Intergalactic_(Fuzzy_Logic_re-mix)_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Soft Fuzzy Man",
+      "artist": "Lemon Demon",
+      "has_synced": true,
+      "path": "select/13_Soft_Fuzzy_Man_Lemon_Demon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Is Gone (Fuzzy Hair remix)",
+      "artist": "David Guetta feat. Chris Willis",
+      "has_synced": false,
+      "path": "select/14_Love_Is_Gone_(Fuzzy_Hair_remix)_David_Guetta_feat._Chris_Willis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fuzzy",
+      "artist": "Waterparks",
+      "has_synced": true,
+      "path": "select/15_Fuzzy_Waterparks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Is Gone (Fuzzy Hair Remix)",
+      "artist": "Chris Willis & David Guetta",
+      "has_synced": false,
+      "path": "select/16_Love_Is_Gone_(Fuzzy_Hair_Remix)_Chris_Willis_&_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love is Gone (Fuzzy Hair Remix)",
+      "artist": "David Guetta & Chris Willis",
+      "has_synced": false,
+      "path": "select/17_Love_is_Gone_(Fuzzy_Hair_Remix)_David_Guetta_&_Chris_Willis.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fuzzy Logic",
+      "artist": "David Benoit",
+      "has_synced": false,
+      "path": "select/18_Fuzzy_Logic_David_Benoit.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Fuzzy (The Incredible Moses Leroy cover)",
+      "artist": "Lemon Demon",
+      "has_synced": false,
+      "path": "select/19_Fuzzy_(The_Incredible_Moses_Leroy_cover)_Lemon_Demon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fuzzy",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/pl_01_Fuzzy_SCANDAL.txt"
+    }
+  ]
+}
